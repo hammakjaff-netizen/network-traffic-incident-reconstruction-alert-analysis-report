@@ -21,7 +21,7 @@ The report focused on:
 - The report documented observed evidence conservatively and avoided overstating unsupported attack conclusions.
 
 ## Files
-https://github.com/hammakjaff-netizen/network-traffic-incident-reconstruction-alert-analysis-report/blob/bf7fa9fa21c10000d753971bde5b60020d373681/network_traffic_incident_reconstruction_alert_analysis_report_v2.docx
+https://github.com/hammakjaff-netizen/network-traffic-incident-reconstruction-alert-analysis-report/blob/e0d08255a68c5b998ddb31177629cc23985ab977/network_traffic_incident_reconstruction_alert_analysis_report_v2.pdf
 
 ## Notes
 This assessment was conducted in a controlled environment for authorized technical analysis and incident documentation purposes.
